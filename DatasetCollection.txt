@@ -1,0 +1,3 @@
+You need to download the dataset file from the link given in the README.md file.
+You have to put in the Folder called "FIRE-SMOKE-DATASET".
+remove smoke folder form train as well as test modules.
